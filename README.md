@@ -1,5 +1,6 @@
 # hello-world
 my first repository
 
-.md -markdown text 
+.md -markdown text.
+
 Simple text document.
